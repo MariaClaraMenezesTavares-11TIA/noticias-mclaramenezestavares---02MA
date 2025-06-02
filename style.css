@@ -76,7 +76,7 @@ header nav button{
 header .mobile a{
     text-decoration: none;
     color: var(--dark-blue);
-    font-size: 1.125;
+    font-size: 1.125rem;
     line-height: 1.5rem;
 }
 
@@ -106,7 +106,7 @@ main{
 }
 
 .primeira-secao p{
-    font-size:0.9375 ;
+    font-size:0.9375rem ;
     line-height: 1.625rem;
     color: var(--gunmetal);
     margin-bottom: 1.5rem;
